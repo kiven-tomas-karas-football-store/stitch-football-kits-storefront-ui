@@ -4,6 +4,6 @@ Football kits storefront UI. Live site is served from GitHub Pages.
 
 ## Visit
 
-After Pages is enabled, open:
+Open the live site:
 
-`https://<your-github-username>.github.io/stitch-football-kits-storefront-ui/`
+https://kiven-tomas-karas-football-store.github.io/stitch-football-kits-storefront-ui/
